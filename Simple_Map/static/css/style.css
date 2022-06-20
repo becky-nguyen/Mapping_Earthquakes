@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 html,
 body,
 #mapid {
@@ -6,13 +5,4 @@ body,
   height: 100%;
   padding: 0;
   margin: 0;
-=======
-html,
-body,
-#mapid {
-  width: 100%;
-  height: 100%;
-  padding: 0;
-  margin: 0;
->>>>>>> f2aa4dbbaacbcca4652d6be06b57f458455f643c
 }
